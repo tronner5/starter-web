@@ -1,1 +1,2 @@
 “I'm unpredictable, I never know where I'm going until I get there, I'm so random, I'm always growing, learning, changing, I'm never the same person twice. But one thing you can be sure of about me; is I will always do exactly what I want to do.”
+The gedit is mostly used GUI-based text editor that is installed by default on maximum Linux distributions. Multiple files can be opened by using this editor. Run the following command the open the existing file1.txt file using gedit editor.
