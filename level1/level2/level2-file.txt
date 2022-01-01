@@ -1,0 +1,1 @@
+There you can see the branch details and untracked files in red colour. These files are uncommitted files; if you want to commit these files, first, you should add these files to GIT by hitting the git add command. uahsldhash djas dug asd ugas dg agd asug duga sudg auspg dugas dug sau dugas ud uash du asuhd asud us
